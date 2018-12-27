@@ -1,6 +1,6 @@
 {
   "name": "@hkube/bull",
-  "version": "3.5.2",
+  "version": "3.5.3",
   "description": "forked from OptimalBits/bull (3.5.1)",
   "main": "./index.js",
   "repository": {
